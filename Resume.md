@@ -133,5 +133,3 @@ Desenvolvedor de software com ampla experiência em Java, Kotlin, Spring Boot, A
 *Período: Outubro de 2022 em Andamento*
 - Projeto da Plataforma de Seguros Vayon e Original
 - Aplicação para cadastro e operação (aprovação/reprovação) de crédito de uma solicitação de restituição de seguros.
-
-Certifique-se de incluir esses detalhes em seu currículo.
