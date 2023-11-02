@@ -1,8 +1,7 @@
 <div>  
   <div style="display: flex;" align="center">
-    <h1><strong>André Vieira da Silva</strong></br> 
+    <strong><h1>André Vieira da Silva</h1></strong>
       <h3>[ Senior Software Development Engineer ] </h3> 
-    </h1>
   </div>
   <div style="display: flex;" align="center">
     <img align="center" alt="Java" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
